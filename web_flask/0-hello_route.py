@@ -11,4 +11,4 @@ def hello_world():
     return 'Hello HBNB!'
 
 
-app.run()
+app.run(host='0.0.0.0')
