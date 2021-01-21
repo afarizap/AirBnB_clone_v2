@@ -17,3 +17,13 @@
 ### 0-hello_route
 
 - Here is the best tutorial for this task: https://www.codementor.io/@overiq/basics-of-flask-fzvh8ueed
+
+### 1-hbnb_route
+
+- same as 0 but in another page
+
+### 2-c_route
+
+- Using rules and builtin to display text formated: 
+https://flask.palletsprojects.com/en/1.1.x/api/?highlight=run#flask.Flask.run
+  
